@@ -14,4 +14,8 @@ public class User {
 
     private String name;
 
+    private Double score;
+
+    private String age;
+
 }
