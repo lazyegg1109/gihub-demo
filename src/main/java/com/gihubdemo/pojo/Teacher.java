@@ -13,5 +13,7 @@ public class Teacher {
     private Long tId;
 
     private String tName;
+    
+    private String tAge;
 
 }
