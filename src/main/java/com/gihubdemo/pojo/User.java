@@ -17,5 +17,7 @@ public class User {
     private Double score;
 
     private String age;
+    
+    private String address;
 
 }
